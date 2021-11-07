@@ -4,7 +4,6 @@
 }
 .fl-jc-sb{
     display: flex;
-    
     justify-content: space-between;
 }
 .fl-jc-sa{
@@ -18,6 +17,10 @@
 .fl-ai-c{
     display: flex;
     align-items: center;
+}
+.fl-ai-fs{
+    display: flex;
+    align-items:flex-start;
 }
 .fl-d-colmn{
     display: flex;
