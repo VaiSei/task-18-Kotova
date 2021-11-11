@@ -38,7 +38,7 @@ color: #000000;
     border: none;
 }
 .header-link{
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+   
 }
 .header-second-part{
     width: 50%;
@@ -51,7 +51,7 @@ color: #000000;
     font-size: 24px;
     font-weight: bolder;
     color: #000000;
-    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    
 }
 .header-action{
     background: #0065F2;
